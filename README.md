@@ -23,7 +23,7 @@ This Blood Bank Management System is a web-based application developed using PHP
 
 6.Update the database connection settings with your MySQL credentials:
 
-<!--
+```php
 <?php
 
 $host = 'localhost';
@@ -43,7 +43,7 @@ if ($conn->connect_error) {
 }
 
 ?>
--->
+
 7.Run the Application: Place the project directory in the htdocs folder of your XAMPP installation. Open your web browser and navigate to http://localhost/Blood-donation-management-system.
 # usage
 1.Admin Login:
