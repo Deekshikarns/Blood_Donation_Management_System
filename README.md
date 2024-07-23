@@ -27,17 +27,20 @@ if ($conn->connect_error) {
 ```
 7.Run the Application: Place the project directory in the htdocs folder of your XAMPP installation. Open your web browser and navigate to http://localhost/Blood-donation-management-system.
 # usage
-1.Admin Login:                                                                                                                                                                                                       
+1.Admin Login:      
+
 •Navigate to the admin login page.                                                                                                                                                                                
 •Use the following credentials to log in as an admin:                                                                                                                                                          
 •Username: admin                                                                                                                                                                                                 
 •Password: password         
 
 2.Manage Donors:    
+
 •Add, edit, and delete donor information.                                                                                                                                                                         
 •Record new blood donations.    
 
-3.Manage Recipients:                                                                                                                                                                                                 
+3.Manage Recipients: 
+
 •Add, edit, and delete recipient information.                                                                                                                                                                     
 •Record blood transfusions.   
 
