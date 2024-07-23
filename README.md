@@ -25,25 +25,16 @@ This Blood Bank Management System is a web-based application developed using PHP
 
 ```php
 <?php
-
 $host = 'localhost';
-
 $user = 'root';
-
 $pass = '';
-
 $db = 'blood_donation';
-
 $conn = new mysqli($host, $user, $pass, $db);
-
 if ($conn->connect_error) {
-
-    die("Connection failed: " . $conn->connect_error);
-    
+    die("Connection failed: " . $conn->connect_error); 
 }
-
 ?>
-
+```
 7.Run the Application: Place the project directory in the htdocs folder of your XAMPP installation. Open your web browser and navigate to http://localhost/Blood-donation-management-system.
 # usage
 1.Admin Login:
