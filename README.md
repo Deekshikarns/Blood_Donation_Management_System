@@ -2,9 +2,13 @@
 This Blood Bank Management System is a web-based application developed using PHP and MySQL, hosted on a local server using XAMPP.A Blood Donation Management System is a software application designed to manage and streamline the process of blood donation, including donor registration, patient registration. It also features patient request forms and search functionalities to efficiently match blood donors with patients in need.
 # Features
 1.User authentication (Admin, Donor, Recipient)
+
 2.Manage blood donors and recipients
+
 3.Record blood donations and transfusions
+
 4.Search for available blood types
+
 5.View donation history.
 # Installation
 1.Clone the Repository: git clone [https://github.com/Deekshikarns/Blood_donation_management_system.git]
