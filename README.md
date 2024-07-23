@@ -14,7 +14,7 @@ This Blood Bank Management System is a web-based application developed using PHP
 1.Clone the Repository: git clone [https://github.com/Deekshikarns/Blood_donation_management_system.git]
 
 2. XAMPP: Open XAMPP Control Panel and start Apache and MySQL.
-3. 
+
 3.Create Database: Open phpMyAdmin by navigating to http://localhost/phpmyadmin in your web browser.
 
 4.Create a new database named blood_donation. Import the blood_donation.sql file located in the database directory of the cloned repository.
